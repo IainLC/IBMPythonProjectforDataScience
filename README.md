@@ -12,7 +12,7 @@ In this module, you will demonstrate your skills in Python - the language of cho
 * Webscraping 
 
 Libraries:
-* nmpy
+* numpy
 * Beutiful soup
 * Matplot lib
 * Pandas
